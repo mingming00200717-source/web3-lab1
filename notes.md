@@ -1,1 +1,3 @@
 # notes
+
+today: setup finished
